@@ -45,3 +45,24 @@ Various guidelines offered on Github, YouTube, a number of blogs, etc.
 
 раздел Team:
 Alexander Ray
+https://www.linkedin.com/in/alex-a-ray/
+Oleg Langer
+https://www.linkedin.com/in/oleg-langer-79472a55/
+Vladimir Polyatskin
+https://www.linkedin.com/in/vladimir-polyatskin-839923154/
+et al
+
+Why you?
+Multifaceted team covering a range of important skills, from front- to back-end.
+Vast experience across a range of applications and industries.
+Highly motivated: completed Stage 1 of the project in question within a short timeframe and without any external help or support.
+
+Previous work
+https://github.com/mfactory-lab
+https://fb.watch/5LrGE1HtYR/
+Globar?
+
+Amount of funding
+Depending on the available funding, we would be able to dedicate varying amount of our time to the project.
+We are willing to invest up to X hours per week each, at rates of Y EUR/hour (Z% below our normal working rates).
+Better funding means we would be able to achieve more of the goals listed above and do it faster, while also offering more support for the Solana Validator community.
